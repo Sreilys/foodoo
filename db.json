@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id":"1",
+      "name":"Sushi plate",
+      "description":"Fresh is the best",
+      "price": 23.97
+    },
+    {
+      "id":"2",
+      "name":"Egg Micro Salad",
+      "description":"For a refreshing breakfast",
+      "price": 18.5
+    },
+    {
+      "id":"3",
+      "name":"Flora Burger",
+      "description":"Best Burger in town",
+      "price": 9.99
+    },
+    {
+      "id":"4",
+      "name":"Chicken Biryani",
+      "description":"For your spicy evening",
+      "price": 19.99
+    }
+  ]
+}
+
